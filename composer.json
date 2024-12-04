@@ -1,5 +1,5 @@
 {
-	"name": "dereuromark/cakephp-translate",
+	"name": "chetanvarshney/cakephp-translate",
 	"description": "A CakePHP plugin for managing translations",
 	"license": "MIT",
 	"type": "cakephp-plugin",
@@ -15,9 +15,9 @@
 			"role": "Author"
 		}
 	],
-	"homepage": "https://github.com/dereuromark/cakephp-translate",
+	"homepage": "https://github.com/chetanvarshney/cakephp-translate",
 	"support": {
-		"source": "https://github.com/dereuromark/cakephp-translate"
+		"source": "https://github.com/chetanvarshney/cakephp-translate"
 	},
 	"require": {
 		"php": ">=8.1",
